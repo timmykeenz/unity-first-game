@@ -1,2 +1,2 @@
-# UnityGame
- SickGameBro
+# Unity Game
+This was a precursor to our Choose Your Own Adventure project (see: https://github.com/timmykeenz/choose-adventure).   This project was started by Timothy Keenan and Seth Milligan.  This was our first exposure to Unity.  From learning animations to building custom materials, this project served as a playground for trying new things.  Once we felt comfortable enough with the learning process, we began the next project.
